@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\bin\Debug\FFT.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\bin\Debug\FFT.exe
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\bin\Debug\FFT.pdb
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.exe
+c:\users\acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.pdb
+C:\Users\Acer\documents\visual studio 2013\Projects\FFT\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\bin\Debug\FFT.exe.config
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.exe
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.pdb
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\bin\Debug\FFT.exe
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\bin\Debug\FFT.pdb
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.Form1.resources
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.Properties.Resources.resources
+C:\Users\Acer\YandexDisk\ННГУ\GitHub\FFT\FFT\obj\Debug\FFT.csproj.GenerateResource.Cache
